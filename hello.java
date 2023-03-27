@@ -1,1 +1,4 @@
-public class HelloTest{}
+public class HelloTest{
+	@test
+	public void test(){}
+	}
